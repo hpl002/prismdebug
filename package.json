@@ -1,0 +1,13 @@
+{
+  "name": "prismdebug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@stoplight/prism-cli": "^4.0.1",
+    "@stoplight/prism-http": "^4.0.1"
+  }
+}
